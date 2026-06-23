@@ -1,0 +1,20 @@
+{
+  "name": "profile-card-generator",
+  "version": "1.0.0",
+  "description": "A full-stack profile card generator using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "profile-card"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
